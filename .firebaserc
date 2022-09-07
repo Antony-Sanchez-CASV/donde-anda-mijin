@@ -6,9 +6,16 @@
           "donde-estas-mija"
         ]
       }
+    },
+    "proyecto2b-992ed": {
+      "hosting": {
+        "donde-anda-mija": [
+          "proyecto2b-992ed"
+        ]
+      }
     }
   },
   "projects": {
-    "default": "donde-estas-mija"
+    "default": "proyecto2b-992ed"
   }
 }
